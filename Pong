@@ -13,7 +13,7 @@ HALF_PAD_WIDTH = PAD_WIDTH / 2
 HALF_PAD_HEIGHT = PAD_HEIGHT / 2
 LEFT = False
 RIGHT = True
-direction = True #Direction = true for Right movement of ball elese left
+direction = True #direction = true for Right movement of ball elese left
 ball_pos = [WIDTH/2, HEIGHT/2]
 ball_vel = [0,0]
 paddle1_pos = HEIGHT/2
